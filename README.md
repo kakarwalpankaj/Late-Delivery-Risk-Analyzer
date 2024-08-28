@@ -12,9 +12,6 @@ ii) Building  a Binary Classifier to classify orders with high probabilty of lat
 <br>
 <p>This is the dataset of Supply Chains used by the company DataaCo Global which includes a collection of their products sold, finacial details(profit, loss, total sales etc.), Shipping details, and customer details such as sales, demographics, and transaction details. The data spans to 91 MB engulfing details of 180,520 customers spanning to 53 columns related to Clothing , Sports,and Electronic Supplies.</p>
 
-### BUILD
-Kaggle Notebooks<br>
-* Model trained and Run using: RAM (13 GB) and NVIDIA Tesla 300 GPU <br>
 ### SUBMISSIONS AND FILES <br>
 - **Exploratory Data Analytics[EDA]-Sigmathon1.0.ipynb**<br>
 Consists of Basic EDA of the DataCo dataset such as finding missing values, feature analysis, duplicate values identification, Statistical analysis and other Data Quality checks.<br>
