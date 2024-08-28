@@ -12,13 +12,13 @@ ii) Building  a Binary Classifier to classify orders with high probabilty of lat
 <p>This is the dataset of Supply Chains used by the company DataaCo Global which includes a collection of their products sold, finacial details(profit, loss, total sales etc.), Shipping details, and customer details such as sales, demographics, and transaction details. The data spans to 91 MB engulfing details of 180,520 customers spanning to 53 columns related to Clothing , Sports,and Electronic Supplies.</p>
 
 ### SUBMISSIONS AND FILES <br>
-- **Exploratory Data Analytics[EDA]-Sigmathon1.0.ipynb**<br>
+- **Exploratory Data Analytics[EDA].ipynb**<br>
 Consists of Basic EDA of the DataCo dataset such as finding missing values, feature analysis, duplicate values identification, Statistical analysis and other Data Quality checks.<br>
 - **Final_E-commerce Model.ipynb**<br>
 Contains python code for Feature Selection, Feature Engineering, Model Building, Hyper-parameter tuning, Predictive analytics, Statiscal modelling using regressor output. Decison Tree Regressor for 'Multi-Ouput' Regression model and Statistical models for Late Delivery risk Binary classfication.<br>
 - **BI_E-commerce_Visualization.pbix**<br>
 Microsoft PowerBI (Business Intelligence Tool) for Visulaization and insights derivation are used and this file consists of numerous 'Dashboards' and visualizations.<br>
-- **hackathon ppt.pptx**<br>
+- **ppt.pptx**<br>
 Power Point Presentation of Insights and Graphs/Visuals for Financial, Demograhical, Sales, Market, and Profit Insigths and analysis.<br>
 - **requirements.txt**<br>
 List of libraries used and their versions.<br>
